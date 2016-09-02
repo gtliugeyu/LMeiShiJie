@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
 	
 	
 	public static void chanageActivity(){
+
 		//测试冲突AAA_branch
+
+		//测试冲突 master_branch
+
 	}
 }
